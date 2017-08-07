@@ -1,6 +1,8 @@
-***TCP Server Socket Sample Program***
+******TCP Server Socket Sample Program******
 
-Instructions to run...
+*Instructions to run...*
+
+Run the threadpool.sh file.
 
 
 
