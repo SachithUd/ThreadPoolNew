@@ -1,0 +1,14 @@
+.idea/inspectionProfiles/
+.idea/workspace.xml
+.idea/findbugs-idea.xml
+.idea/
+
+client/client.iml
+client/src/main/resources/
+client/src/test/
+client/target/
+server/server.iml
+server/src/main/resources/
+server/src/test/
+server/target/
+nohup.out
