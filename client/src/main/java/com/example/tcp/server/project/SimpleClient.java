@@ -1,4 +1,4 @@
-package com.example.tcp.server.project.client;
+package com.example.tcp.server.project;
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;

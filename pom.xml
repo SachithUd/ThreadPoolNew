@@ -3,8 +3,12 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.example.tcp.server.project</groupId>
   <artifactId>TCPServerProject</artifactId>
-  <packaging>jar</packaging>
+  <packaging>pom</packaging>
   <version>1.0-SNAPSHOT</version>
+  <modules>
+    <module>server</module>
+    <module>client</module>
+  </modules>
   <name>TCPServerProject</name>
   <url>http://maven.apache.org</url>
   <dependencies>
