@@ -1,5 +1,3 @@
-$port= 4040
+mvn -f ./client/pom.xml clean install
 
-javac /home/sachith/Tutorials/TCPServerProject/src/main/java/com/example/tcp/server/project/client/SimpleClient.java
-
-java /home/sachith/Tutorials/TCPServerProject/src/main/java/com/example/tcp/server/project/client/SimpleClient $port
+java -cp ./client/target/server-1.0-SNAPSHOT.jar
