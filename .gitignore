@@ -1,7 +1,5 @@
 .idea/
-src/test/
 TCPServerProject.iml
 target/
-src/main/java/com/example/tcp/server/project/client/SimpleClient.class
-src/main/java/com/example/tcp/server/project/server/SimpleThread.class
-src/main/java/com/example/tcp/server/project/server/SimpleServer.class
+client/client.iml
+server/server.iml
