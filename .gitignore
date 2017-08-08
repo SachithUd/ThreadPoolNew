@@ -3,3 +3,10 @@ TCPServerProject.iml
 target/
 client/client.iml
 server/server.iml
+client/src/main/java/com/example/tcp/server/project/SimpleClient.class
+server/src/main/java/com/example/tcp/server/project/SimpleServer.class
+server/src/main/java/com/example/tcp/server/project/SimpleThread.class
+client/src/test
+server/src/test
+client/target
+server/target
