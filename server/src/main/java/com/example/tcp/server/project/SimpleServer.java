@@ -40,6 +40,5 @@ public class SimpleServer {
             System.out.println("Client Connected");
             executor.execute(new SimpleThread(client));
         }
-
     }
 }

@@ -1,3 +1,5 @@
-mvn -f ./client/pom.xml clean install
+#!/usr/bin/env bash
 
-java -cp ./client/target/server-1.0-SNAPSHOT.jar
+mvn -f ../client/pom.xml clean install
+
+java -cp ../client/target/client-1.0-SNAPSHOT.jar com.example.tcp.server.project.SimpleClient
